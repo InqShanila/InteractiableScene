@@ -1,4 +1,4 @@
-#Info
+# Info
 Unity version 6.3 LTS (6000.3.9f1)
 
 Used assets:
